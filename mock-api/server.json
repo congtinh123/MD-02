@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": "662a",
+      "student_name": "Huỳnh Công Tính",
+      "email": "huynhcongtinh@gmail.com",
+      "address": "Long An",
+      "phone": "01234567890",
+      "status": false,
+      "create_at": "13-05-1998"
+    },
+    {
+      "id": "197a",
+      "student_name": "Lê Minh Anh",
+      "email": "",
+      "address": "Cà Mau",
+      "phone": "",
+      "status": true,
+      "create_at": "2024-05-15T07:05:43.935Z"
+    },
+    {
+      "id": "91b6",
+      "student_name": "Nguyễn Thế Hiển",
+      "email": "",
+      "address": "",
+      "phone": "",
+      "status": true,
+      "create_at": "2024-05-15T03:50:38.336Z"
+    },
+    {
+      "id": "d122",
+      "student_name": "Mai Xuân Sáng",
+      "email": "",
+      "address": "",
+      "phone": "",
+      "status": true,
+      "create_at": "2024-05-15T03:50:48.901Z"
+    },
+    {
+      "id": "4391",
+      "student_name": "Anh Đây Nè",
+      "email": "",
+      "address": "",
+      "phone": "",
+      "status": true,
+      "create_at": "2024-05-15T03:51:57.228Z"
+    }
+  ]
+}
